@@ -27,3 +27,8 @@ The raw data was downloaded from the Northwind Traders database and loaded into 
 ![Screenshot 2024-08-08 at 12 28 44 PM](https://github.com/user-attachments/assets/364165b0-2882-436f-9055-9f48c4fa8d76)
 
 ![Screenshot 2024-08-08 at 12 29 15 PM](https://github.com/user-attachments/assets/0364cfda-c1e4-41c4-aa17-0a0ab65182ad)
+
+![Screenshot 2024-08-08 at 3 46 04 PM](https://github.com/user-attachments/assets/ce9fe9af-27ff-4e75-bb06-3825eb2b1b2d)
+
+![Screenshot 2024-08-08 at 3 46 38 PM](https://github.com/user-attachments/assets/9599d508-2dbc-4c37-8f61-453fafbc9029)
+
