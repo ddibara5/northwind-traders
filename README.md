@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project performs a comprehensive analysis of the Northwind Traders dataset to uncover business insights and performance metrics. It begins with data exploration and cleaning processes, including connecting to a PostgreSQL database and performing common joins for querying. The analysis proceeds with various sections focusing on employee performance, sales trends, high-value customers, and product and category performance. Visualizations and statistical analysis are employed to illustrate trends and patterns in the data and to make data-driven recommendations.
+This project performs a comprehensive analysis of the Northwind Traders dataset to uncover business insights and performance metrics. It begins with data exploration and cleaning processes, including connecting to a PostgreSQL database and performing common joins for querying. The analysis proceeds with various sections focusing on employee performance, sales trends, high-value customers, and product and category performance. Visualizations are created to illustrate trends and patterns in the data and to make data-driven recommendations.
 
 ## Dataset
 
